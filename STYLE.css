@@ -1,0 +1,52 @@
+body{
+  
+   text-align: center; 
+   
+}
+.header{
+    color:brown;
+    background-color: rgba(126, 99, 25, 0.411);
+    text-align: center;
+    border: 2px black outset;
+}
+.main{
+    background-color: rgba(126, 99, 25, 0.411);
+    border: 2px black outset;
+    
+}
+.image{
+    border: 2px black outset;
+    background-color: beige;
+
+}
+IMG {
+    border: 2px solid black ;
+    border-color: black;
+    border-radius: 50%;
+    width:150px;
+    height:150px ;
+    
+
+}
+
+h1{
+    text-align: center;
+    color: #4f3333;
+   font-style: italic;
+}
+.pro{
+    display:flex ;
+    width:100%;
+    justify-content: center;
+    color:rgb(78, 46, 46);
+    background-color: beige;
+    text-align: center;
+    border: 2px black outset;
+}
+H4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+OL{
+    list-style: none;
+}
